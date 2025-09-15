@@ -12,3 +12,4 @@
 /Users/november/Desktop/Programming Advanced/Lecture1 Sorting/Sorting1/obj/Debug/net9.0/Sorting1.pdb
 /Users/november/Desktop/Programming Advanced/Lecture1 Sorting/Sorting1/obj/Debug/net9.0/Sorting1.genruntimeconfig.cache
 /Users/november/Desktop/Programming Advanced/Lecture1 Sorting/Sorting1/obj/Debug/net9.0/ref/Sorting1.dll
+/Users/november/Desktop/Programming Advanced/Lecture1 Sorting/Sorting1/obj/Debug/net9.0/Sorting1.sourcelink.json
