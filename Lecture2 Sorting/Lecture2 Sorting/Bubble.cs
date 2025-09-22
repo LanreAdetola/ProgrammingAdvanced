@@ -1,12 +1,11 @@
-// Sort.cs
 using System;
 
-namespace MyBubbleSort
+namespace MySorting
 {
-    public class Sort
+    public class Bubble
     {
         // BubbleSort method
-        public void BubbleSort(int[] array)
+        public void Sort(int[] array)
         {
             int n = array.Length;
 

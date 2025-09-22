@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture2 Sorting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0791fdc0faa1287d30b2e7643bc38b85387acd7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43030b48b8bc92e53d73c638c38e2b30ab455992")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture2 Sorting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture2 Sorting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
