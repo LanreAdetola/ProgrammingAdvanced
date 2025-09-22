@@ -7,6 +7,8 @@ string[] lines = File.ReadAllLines("sorted_numbers.txt");
 //  }
 // To read numbers from a file and store them in an array
 
+//
+
 Random rand = new Random();
 
 int target = rand.Next(Convert.ToInt32(lines[0]), Convert.ToInt32(lines[lines.Length - 1]) + 1);

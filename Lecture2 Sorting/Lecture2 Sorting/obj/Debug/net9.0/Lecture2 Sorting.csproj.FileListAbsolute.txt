@@ -1,0 +1,15 @@
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/bin/Debug/net9.0/Lecture2 Sorting
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/bin/Debug/net9.0/Lecture2 Sorting.deps.json
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/bin/Debug/net9.0/Lecture2 Sorting.runtimeconfig.json
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/bin/Debug/net9.0/Lecture2 Sorting.dll
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/bin/Debug/net9.0/Lecture2 Sorting.pdb
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/Lecture2 Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/Lecture2 Sorting.AssemblyInfoInputs.cache
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/Lecture2 Sorting.AssemblyInfo.cs
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/Lecture2 Sorting.csproj.CoreCompileInputs.cache
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/Lecture2 Sorting.sourcelink.json
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/Lecture2 Sorting.dll
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/refint/Lecture2 Sorting.dll
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/Lecture2 Sorting.pdb
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/Lecture2 Sorting.genruntimeconfig.cache
+/Users/november/Desktop/Programming Advanced/Lecture2 Sorting/Lecture2 Sorting/obj/Debug/net9.0/ref/Lecture2 Sorting.dll
