@@ -1,28 +1,43 @@
 public class LinkedList
 {
-    public Node Head { get; set; }
+    public Node Head { get; set; } // first node of the list
 
-    public LinkedList(string value)
+    public LinkedList() 
     {
-        Node Head = new Node(value);
-        Head = node;
+        Head = null; // list is empty at start
     }
 
-    public override string ToString()
+    // Method to add a new node at the end (tail)
+    public void InsertTail(string value)
     {
-        string list = Head.Data;
+        Node newNode = new Node(value);
 
-        string list = Head.Data;
-        Node lastnode = Head;
-
-        while (lastnode.Next != null)
+        if (Head == null)
         {
-            list += lastnode.Data;
-            lastnode = lastnode.Next;
+            Head = newNode; // first node in list
+            return;
         }
 
-        return list;
+        Node current = Head;
+        while (current.Next != null)
+        {
+            current = current.Next; // move to the last node
+        }
 
+        current.Next = newNode; // link new node at the end
     }
 
- }
+    // Method to display the linked list
+    public void PrintList()
+    {
+        Node current = Head;
+        while (current != null)
+        {
+            Console.Write(current.Data);
+            if (current.Next != null)
+                Console.Write(" -> "); // visual arrow
+            current = current.Next;
+        }
+        Console.WriteLine();
+    }
+}
