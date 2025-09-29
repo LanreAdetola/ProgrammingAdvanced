@@ -1,0 +1,23 @@
+# Visual Studio / VS Code
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
